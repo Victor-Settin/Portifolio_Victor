@@ -91,9 +91,9 @@ export const ContactUs = () => {
               <Col lg="8">
                 <Card className="bg-gradient-secondary shadow">
                   <CardBody className="p-lg-5">
-                    <h4 className="mb-1">Want to work with me?</h4>
+                    <h4 className="mb-1">Vamos trabalhar juntos?</h4>
                     <p className="mt-0">
-                      Reach out to me using the form below.
+                      Entre em contato comigo.
                     </p>
                     <FormGroup className={classnames('mt-5', {})}>
                       <InputGroup className="input-group-alternative">
@@ -103,7 +103,7 @@ export const ContactUs = () => {
                           </InputGroupText>
                         </InputGroupAddon>
                         <Input
-                          placeholder="Your name"
+                          placeholder="Seu nome"
                           type="text"
                           name="user_name"
                         />
@@ -117,7 +117,7 @@ export const ContactUs = () => {
                           </InputGroupText>
                         </InputGroupAddon>
                         <Input
-                          placeholder="Email address"
+                          placeholder="Seu Email"
                           name="user_email"
                           type="email"
                         />
@@ -128,7 +128,7 @@ export const ContactUs = () => {
                         className="form-control-alternative"
                         cols="80"
                         name="user_message"
-                        placeholder="Type a message..."
+                        placeholder="mensagem..."
                         rows="4"
                         type="textarea"
                       />
@@ -141,7 +141,7 @@ export const ContactUs = () => {
                         size="lg"
                         type="submit"
                       >
-                        Send Message
+                        Enviar
                       </Button>
                     </div>
                   </CardBody>

@@ -12,31 +12,31 @@ import {
 } from './types/sections';
 
 export const greetings: GreetingsType = {
-  name: 'Hanzla Tauqeer',
-  title: "Hi all, I'm Hanzla",
+  name: 'Victor Settin',
+  title: "Olá, me chamo Victor Settin",
   description:
-    "I'm passionate Full Stack web developer having an experience of web applications with Python, Django, React.js, Next.js and Blockchain development on Ethereum, Solidity, Web3.js, Moralis, and Brownie Framework.",
-  resumeLink:
-    'https://docs.google.com/document/d/1_4RIfbyt4FFHW_bNplnoINQr01neTu7XDeeUlT_2O_k/edit?usp=sharing',
+    "Sou um desenvolvedor Full Stack web apaixonado, com experiência em aplicações web utilizando React.js, Next.js",
+  // resumeLink:
+  //   'document Resume',
 };
 
 export const openSource = {
-  githubUserName: '1hanzla100',
+  githubUserName: 'Victor-Settin',
 };
 
 export const contact = {};
 
 export const socialLinks: SocialLinksType = {
-  url: 'https://1hanzla100.github.io/',
-  linkedin: 'https://www.linkedin.com/in/1hanzla100/',
-  github: 'https://github.com/1hanzla100',
-  instagram: 'https://www.instagram.com/__hanzla100',
-  facebook: 'https://www.facebook.com/1hanzla100',
-  twitter: 'https://twitter.com/1hanzla100',
+  url: 'https://Victor-Settin.github.io/',
+  linkedin: 'https://www.linkedin.com/in/Victor-Settin/',
+  github: 'https://github.com/Victor-Settin',
+  instagram: 'https://www.instagram.com/victor_Sttn',
+  facebook: 'https://www.facebook.com/DevOpVictorStn',
+  twitter: 'https://twitter.com/VSetttin',
 };
 
 export const skillsSection: SkillsSectionType = {
-  title: 'What I do',
+  title: 'oque eu faço',
   subTitle: 'CRAZY FULL STACK DEVELOPER WHO WANTS TO EXPLORE EVERY TECH STACK',
   data: [
     {
@@ -259,25 +259,40 @@ export const experience: ExperienceType[] = [
 
 export const projects: ProjectType[] = [
   {
-    name: 'developer-portfolio',
+    name: 'site-1',
     desc: 'Software Developer Portfolio Template built with react.js and next.js bootstrap that helps you showcase your work and skills as a software developer.',
-    github: 'https://github.com/1hanzla100/developer-portfolio',
-    link: 'https://developer-portfolio-1hanzla100.vercel.app/',
+    github: 'https://github.com/Victor-Settin/developer-portfolio',
+    link: 'https://site1-gamma-teal.vercel.app/',
   },
   {
-    name: 'AtlasMart',
-    desc: 'With Atlas Mart, it’s easy to find the products with the best price and ship them straight to your door.',
-    github: 'https://github.com/1hanzla100/Django-React-Marketplace',
+    name: 'site-2',
+    desc: 'Software Developer Portfolio Template built with react.js and next.js bootstrap that helps you showcase your work and skills as a software developer.',
+    github: 'https://github.com/Victor-Settin/developer-portfolio',
+    link: 'https://site-2-ten.vercel.app/',
   },
   {
-    name: 'Technota (Forum)',
-    desc: 'Get hands-on experience in technical skills with Technota',
-    github: 'https://github.com/1hanzla100/django-react-forum',
+    name: 'site3',
+    desc: 'Software Developer Portfolio Template built with react.js and next.js bootstrap that helps you showcase your work and skills as a software developer.',
+    github: 'https://github.com/Victor-Settin/developer-portfolio',
+    link: 'https://site-3-ten.vercel.app/',
   },
   {
-    name: 'Shopaza (Ecommerce)',
-    desc: 'Now your reach to all your favorite entertainment and luxury items is just one touch apart',
-    github: 'https://github.com/1hanzla100/Django-ecommerce',
+    name: 'site-4',
+    desc: 'Software Developer Portfolio Template built with react.js and next.js bootstrap that helps you showcase your work and skills as a software developer.',
+    github: 'https://github.com/Victor-Settin/developer-portfolio',
+    link: 'https://site-4-bf3c.vercel.app/',
+  },
+  {
+    name: 'site-5',
+    desc: 'Software Developer Portfolio Template built with react.js and next.js bootstrap that helps you showcase your work and skills as a software developer.',
+    github: 'https://github.com/Victor-Settin/developer-portfolio',
+    link: 'https://site-5-kappa.vercel.app/',
+  },
+  {
+    name: 'site-6',
+    desc: 'Software Developer Portfolio Template built with react.js and next.js bootstrap that helps you showcase your work and skills as a software developer.',
+    github: 'https://github.com/Victor-Settin/developer-portfolio',
+    link: 'https://site-6-nine.vercel.app/',
   },
 ];
 
@@ -299,19 +314,19 @@ export const showContactUs: boolean = true;
 
 // See object prototype on /types/section.ts page
 export const seoData: SEODataType = {
-  title: 'Hanzla Tauqeer',
+  title: 'Victor Settin',
   description:
     'A passionate Full Stack Web Developer and Blockchain Developer.',
-  author: 'Hanzla Tauqeer',
+  author: 'Victor Settin',
   image: 'https://avatars3.githubusercontent.com/u/59178380?v=4',
-  url: 'https://developer-portfolio-1hanzla100.vercel.app',
+  url: 'https://developer-portfolio-Victor-Settin.vercel.app',
   keywords: [
-    'Hanzla',
-    'Hanzla Tauqeer',
-    '@1hanzla100',
-    '1hanzla100',
+    'Victor',
+    'Victor Settin',
+    '@Victor-Settin',
+    'Victor-Settin',
     'Portfolio',
-    'Hanzla Portfolio ',
-    'Hanzla Tauqeer Portfolio',
+    'Victor Portfolio ',
+    'Victor Settin Portfolio',
   ],
 };

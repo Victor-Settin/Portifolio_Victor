@@ -16,10 +16,12 @@ Just Edit `portfolio.js` to get your personal portfolio. Feel free to use it as-
 ## Sections
 
 ✔️ Summary and About me\
+
 <!-- ✔️ Skills\
 ✔️ Education\
 ✔️ Work Experience\
 ✔️ Feedbacks\ -->
+
 ✔️ Projects\
 ✔️ Github Profile
 
@@ -69,7 +71,7 @@ $ yarn dev
 
 ```javascript
   //  portfolio.js
-  githubUserName: 'Victor Settin',
+  githubUserName: 'Victor-Settin',
 ```
 
 #### Using Emojis
