@@ -1,11 +1,11 @@
 <h1 align="center">Welcome to developer-portfolio 👋</h1>
-<a href="https://github.com/1hanzla100/developer-portfolio/blob/main/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/1hanzla100/developer-portfolio"></a><a href="https://github.com/1hanzla100/developer-portfolio/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/1hanzla100/developer-portfolio"></a><a href="https://github.com/1hanzla100/developer-portfolio/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/1hanzla100/developer-portfolio"></a> <a href="https://github.com/1hanzla100/developer-portfolio/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/1hanzla100/developer-portfolio"></a>
+<a href="https://github.com/Victor-Settin/developer-portfolio/blob/main/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/1hanzla100/developer-portfolio"></a><a href="https://github.com/Victor-Settin/developer-portfolio/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/1hanzla100/developer-portfolio"></a><a href="https://github.com/Victor-Settin/developer-portfolio/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/1hanzla100/developer-portfolio"></a> <a href="https://github.com/Victor-Settin/developer-portfolio/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/1hanzla100/developer-portfolio"></a>
 
 ## Software Developer Portfolio Template built with Next.js, bootstrap that helps you showcase your work and skills as a software developer.
 
 <p align="center">
   <kbd>
-    <img src="https://github.com/1hanzla100/developer-portfolio/blob/master/picture.PNG"></img>
+    <img src="https://github.com/Victor-Settin/developer-portfolio/blob/master/picture.PNG"></img>
   </kbd>
 </p>
 
@@ -99,7 +99,7 @@ Iconify Icons are used in skill section. You can find all the icons here: [Iconi
 
 <!-- ## For the Future -->
 
-<!-- If you can help us with these. Please don't hesitate to open a [pull request](https://github.com/1hanzla100/developer-portfolio/pulls). -->
+<!-- If you can help us with these. Please don't hesitate to open a [pull request](https://github.com/Victor-Settin/developer-portfolio/pulls). -->
 
 - Enable Dark Mode
 
