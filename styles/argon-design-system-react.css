@@ -50,7 +50,6 @@
 	--light: #adb5bd;
 	--dark: #212529;
 	--default: #172b4d;
-	--white: #fff;
 	--neutral: #fff;
 	--darker: black;
 	--breakpoint-xs: 0;
@@ -100,7 +99,7 @@ body {
 	line-height: 1.5;
 	color: #525f7f;
 	text-align: left;
-	background-color: #fff;
+	background-color: radial-gradient(circle, rgba(245,255,251,1) 0%, rgba(208,208,208,1) 35%);
 }
 
 [tabindex="-1"]:focus {
@@ -14410,7 +14409,7 @@ button.bg-lighter:focus {
 }
 
 .bg-gradient-info {
-	background: linear-gradient(35deg, #11cdef 0, #1171ef 100%) !important;
+	background: linear-gradient(163deg, rgba(9,25,69,0.9192927170868347) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);
 }
 
 .bg-gradient-warning {
@@ -14478,7 +14477,7 @@ button.bg-lighter:focus {
 }
 
 .bg-gradient-teal {
-	background: linear-gradient(35deg, #11cdef 0, #1171ef 100%) !important;
+	background: linear-gradient(163deg, rgba(9,25,69,0.9192927170868347) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);
 }
 
 .bg-gradient-cyan {
@@ -14705,7 +14704,7 @@ button.section-darker:focus {
 }
 
 .bg-gradient-info {
-	background: linear-gradient(35deg, #11cdef 0, #1171ef 100%) !important;
+	background: linear-gradient(163deg, rgba(9,25,69,0.9192927170868347) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);
 }
 
 .bg-gradient-warning {
