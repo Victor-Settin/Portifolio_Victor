@@ -316,7 +316,7 @@ export const showContactUs: boolean = true;
 export const seoData: SEODataType = {
   title: 'Victor Settin',
   description:
-    'A passionate Full Stack Web Developer and Blockchain Developer.',
+    'Desenvolvedor FullStack',
   author: 'Victor Settin',
   image: 'https://avatars3.githubusercontent.com/u/118223183?v=4',
   url: 'https://developer-portfolio-Victor-Settin.vercel.app',
