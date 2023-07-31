@@ -15,7 +15,7 @@ export const greetings: GreetingsType = {
   name: 'Victor Settin',
   title: "Olá, me chamo Victor Settin",
   description:
-    "Sou um desenvolvedor Full Stack web apaixonado, com experiência em aplicações web utilizando React.js, Next.js",
+    "Sou um desenvolvedor Full Stack web, com experiência em aplicações web utilizando React.js, Next.js",
   // resumeLink:
   //   'document Resume',
 };
