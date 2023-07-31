@@ -22,7 +22,6 @@ const GithubProfileCard = ({ avatar_url, bio, location }: GithubUserType) => {
               <p className="lead text-white mt-3">
                 Discutir um projeto pode se tornar um grande negócio de sucesso!<br>
                 </br>
-                Minha Inbox está aberta para todos.
               </p>
               <p className="text-white mt-3">{bio}</p>
               <div className="my-3 icon-shape bg-gradient-white shadow rounded text-info">

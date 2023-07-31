@@ -227,14 +227,14 @@ export const experience: ExperienceType[] = [
     role: 'Frontend Developer',
     company: 'Duseca Software',
     companyLogo: '/img/icons/common/dusecaSoftware.jpg',
-    date: 'Apr 2022 – Jun 2022',
+    date: 'Apr 2022 - Jun 2022',
     desc: 'I worked as frontend web developer to design web based admin dashboards for mulitple apps using Django, Bootstrap, jQuery, Chart.js and some other libraries.',
   },
   {
     role: 'API Engineer',
     company: 'Duseca Software',
     companyLogo: '/img/icons/common/dusecaSoftware.jpg',
-    date: 'Jan 2022 – Mar 2022',
+    date: 'Jan 2022 - Mar 2022',
     desc: 'I worked as API Engineer on a Kale App. Kale is a community platform for the creation of social reviews based on verified transactions. I built Fully Optimized and High Performance RESTful APIs using Django, DjangoRESTFramework, PostgresSQL, JWT Authentication, AWS, Integrated Plaid APIs for Fetching Bank Transactions, Integrated Sentry for monitoring Django Server and deployed the API on Heroku Server.',
     // descBullets: [
     // 	"Lorem ipsum dolor sit amet, consdfgectetur adipiscing elit",
@@ -318,7 +318,7 @@ export const seoData: SEODataType = {
   description:
     'A passionate Full Stack Web Developer and Blockchain Developer.',
   author: 'Victor Settin',
-  image: 'https://avatars3.githubusercontent.com/u/59178380?v=4',
+  image: 'https://avatars3.githubusercontent.com/u/118223183?v=4',
   url: 'https://developer-portfolio-Victor-Settin.vercel.app',
   keywords: [
     'Victor',
