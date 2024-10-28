@@ -12,7 +12,7 @@ import {
 } from './types/sections';
 
 export const greetings: GreetingsType = {
-  name: 'Victor Settin',
+  name: 'Victor Setti n',
   title: "Olá, me chamo Victor Settin",
   description:
     "Sou um desenvolvedor de Web Sites e aplicativos, com experiência em aplicações web utilizando ferramentas para criação de codigo com React.js, Next.js",
