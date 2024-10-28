@@ -14,6 +14,7 @@ import { openSource, showContactUs } from '../portfolio';
 import SEO from '../components/SEO';
 import Contact from '../components/ContactUs';
 import { GithubUserType } from '../types';
+import Feedbacks from '../containers/Feedbacks';
 
 export default function Home({
   githubProfileData,

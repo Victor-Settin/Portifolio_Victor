@@ -15,7 +15,7 @@ export const greetings: GreetingsType = {
   name: 'Victor Settin',
   title: "Olá, me chamo Victor Settin",
   description:
-    "Sou um desenvolvedor Full Stack web, com experiência em aplicações web utilizando React.js, Next.js",
+    "Sou um desenvolvedor de Web Sites e aplicativos, com experiência em aplicações web utilizando ferramentas para criação de codigo com React.js, Next.js",
   // resumeLink:
   //   'document Resume',
 };
@@ -27,7 +27,7 @@ export const openSource = {
 export const contact = {};
 
 export const socialLinks: SocialLinksType = {
-  url: 'https://Victor-Settin.github.io/',
+  /**url: 'https://Victor-Settin.github.io/',**/
   linkedin: 'https://www.linkedin.com/in/Victor-Settin/',
   github: 'https://github.com/Victor-Settin',
   instagram: 'https://www.instagram.com/victor_Sttn',
@@ -259,38 +259,38 @@ export const experience: ExperienceType[] = [
 
 export const projects: ProjectType[] = [
   {
-    name: 'site-1',
-    desc: 'Software Developer Portfolio Template built with react.js and next.js bootstrap that helps you showcase your work and skills as a software developer.',
+    name: 'Advogados exemplo 1',
+    desc: 'Clique em no botao Demonstração e veja  o exmplo do site',
     github: 'https://github.com/Victor-Settin/developer-portfolio',
     link: 'https://site1-gamma-teal.vercel.app/',
   },
   {
-    name: 'site-2',
-    desc: 'Software Developer Portfolio Template built with react.js and next.js bootstrap that helps you showcase your work and skills as a software developer.',
+    name: 'Advogados exemplo 2',
+    desc: 'Clique em no botao Demonstração e veja  o exmplo do site',
     github: 'https://github.com/Victor-Settin/developer-portfolio',
     link: 'https://site-2-ten.vercel.app/',
   },
   {
-    name: 'site3',
-    desc: 'Software Developer Portfolio Template built with react.js and next.js bootstrap that helps you showcase your work and skills as a software developer.',
+    name: 'Advogados exemplo 3',
+    desc: 'Clique em no botao Demonstração e veja  o exmplo do site',
     github: 'https://github.com/Victor-Settin/developer-portfolio',
     link: 'https://site-3-ten.vercel.app/',
   },
   {
-    name: 'site-4',
-    desc: 'Software Developer Portfolio Template built with react.js and next.js bootstrap that helps you showcase your work and skills as a software developer.',
+    name: 'Advogados exemplo 4',
+    desc: 'Clique em no botao Demonstração e veja  o exmplo do site',
     github: 'https://github.com/Victor-Settin/developer-portfolio',
     link: 'https://site-4-bf3c.vercel.app/',
   },
   {
-    name: 'site-5',
-    desc: 'Software Developer Portfolio Template built with react.js and next.js bootstrap that helps you showcase your work and skills as a software developer.',
+    name: 'Advogados exemplo 5',
+    desc: 'Clique em no botao Demonstração e veja  o exmplo do site',
     github: 'https://github.com/Victor-Settin/developer-portfolio',
     link: 'https://site-5-kappa.vercel.app/',
   },
   {
-    name: 'site-6',
-    desc: 'Software Developer Portfolio Template built with react.js and next.js bootstrap that helps you showcase your work and skills as a software developer.',
+    name: 'Advogados exemplo 6',
+    desc: 'Clique em no botao Demonstração e veja  o exmplo do site',
     github: 'https://github.com/Victor-Settin/developer-portfolio',
     link: 'https://site-6-nine.vercel.app/',
   },
